@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aam123456
-- 👀 I’m interested in ...cricket 
-- 🌱 I’m currently learning ...c,python 
+- 👀 I’m interested in ...cricket,badminton,watching movies
+- 🌱 I’m currently learning ...c,web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...guntur
 
