@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aam123456
+- 👋 Hi, I’m @Somepalli Sai Akash
 - 👀 I’m interested in ...cricket,badminton,watching movies
 - 🌱 I’m currently learning ...c,web dev
 - 💞️ I’m looking to collaborate on ...
